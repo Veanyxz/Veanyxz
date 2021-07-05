@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Veanyxz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+<img src="https://i.pinimg.com/originals/c4/c6/fb/c4c6fb0469f227a4d297c68059dc950d.jpg" alt="Vean" width="170" />
 
-<!---
-Veanyxz/Veanyxz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ITSMEVEAN
+
+</div>
+
+<p align="center">
+<a href="##"><img title="vean" src="https://img.shields.io/static/v1?label=package&message=ItsMeVean&color=red"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Veanyxx"><img title="Author" src="https://img.shields.io/badge/Author-VEAN-red.svg?style=for-the-badge&logo=github" /></a>
+</p>
+<p align="center">
+<a href="#"><img title="mengapi" src="https://img.shields.io/static/v1?label=CREATOR&message=VinzBot&color=pink"></a>
+</p>
