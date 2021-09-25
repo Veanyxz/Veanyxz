@@ -14,7 +14,7 @@ ___
 <p align="center">
    <img width="300" height="150" src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e6f627579616b693f7468656d653d67656c626f6f72752d68" />
 
- <a href="https://github.com/Veanyxz"><img src="https://cardivo.vercel.app/api?name=Veanyxz&description=Hi,%20i%27m%20Vean%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQim_SGX18GNe6nkzSpWSVwsHeQTWA9iNTN9Q&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@itsmevean&github=Veanyxz&pattern=leaf&colorPattern=%23eaeaea" /><a>
+ <a href="https://github.com/Veanyxz"><img src="https://cardivo.vercel.app/api?name=Veanyxz&description=Hi,%20i%27m%20Vean%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://telegra.ph/file/813d8b79c98f2432ab122.jpg&instagram=@itsmevean&github=Veanyxz&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
 ___
@@ -62,13 +62,13 @@ ___
 ### [` 📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=628983583288&text=Assalamualaikum+Bang)
 ### [` 📫 Secound Contact`](https://api.whatsapp.com/send?phone=6282246869840&text=Assalamualaikum+Bang)
 ### [`📬 Website `](https://Veanyxz.github.io)
-## [`Api For You Bot Whatsapp`](https://hardi-api.herokuapp.com)
+## [`Api For You Bot Whatsapp`](https://api-hardi.herokuapp.com)
 
     
 <p align="center">
 <a href="https://www.instagram.com/itsmevean" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="veanyxz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://api.whatsapp.com/send?phone=50766866666&text=p+bang+:v" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://api.whatsapp.com/send?phone=628983583288&text=p+bang+:v" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ___
