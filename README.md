@@ -36,7 +36,7 @@ ___
   "- Allah S.W.T"
   "- TeamProviderXploit"
   "- ΛNU Team"
-  "- Manurios"
+  "- FXC7 Team"
   "- And My Partner"
 ```
 ___
