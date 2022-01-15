@@ -104,8 +104,8 @@ ___
 </p>
     
 
-### [`📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=628983583288&text=Assalamualaikum+Bang)
-### [`📬 My Bot Whatsapp Number`](https://api.whatsapp.com/send?phone=6282246869840&text=!menu)
+### [`📫 My Whatsapp`](https://api.whatsapp.com/send?phone=628983583288&text=Assalamualaikum+Bang)
+### [`📬 My Bot Whatsapp`](https://api.whatsapp.com/send?phone=6282246869840&text=!menu)
 ### [`📬 My Rest Api`](https://Vean.xyz)
 ### [`📬 My Website`](https://Veanyxz.github.io)
     
