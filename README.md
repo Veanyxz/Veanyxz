@@ -2,7 +2,7 @@
 <h1 align="center"> ザキです<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm Vean</h1>
 
 <img align='right' src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
-<p><em>Developer at <a href="https://vean.xyz/">Unix-Team  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Very active member of TeamProviderXploit <a href="https://discord.gg/WmyMGFKMcY"> Join us on discord! </a><img src="https://banner2.cleanpng.com/20190602/okw/kisspng-discord-computer-icons-logo-portable-network-graph-discord-logo-16-x16-png-clipart-download-5cf46a10658692.3312996115595218084159.jpg" width="30"> 
+<p><em>Developer at <a href="https://vean.xyz/">Unix-Team  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Contact Me In Whatsapp <a href="https://api.whatsapp.com/send?phone=628983583288&text=Assalamualaikum+Bang">
 </em></p>
 
 [![Twitter: MisfitsCode](https://img.shields.io/twitter/follow/MisfitsCode?style=social)](https://twitter.com/MisfitsCode)
