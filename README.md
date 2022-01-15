@@ -69,10 +69,6 @@ ___
   "- And My Partner"
 ```
 ___
-   
-   <p align="center">
-  <a href="https://github.com/Veanyxz"><img src="https://github-readme-stats.vercel.app/api?username=Veanyxz&theme=tokyonight&show_icons=true" /></a>
-</p>
 
 ### Spotify Playing 🎧
 
@@ -81,6 +77,10 @@ ___
 </p>
 
 ------
+   
+   <p align="center">
+  <a href="https://github.com/Veanyxz"><img src="https://github-readme-stats.vercel.app/api?username=Veanyxz&theme=tokyonight&show_icons=true" /></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Veanyxz"><img src="https://github-readme-streak-stats.herokuapp.com?user=Veanyxz&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
