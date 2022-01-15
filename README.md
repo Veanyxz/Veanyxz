@@ -77,6 +77,19 @@ ___
 </p>
 
 ------
+
+### Repo Stats 🔭
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=veanyxz&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=scraper&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=json&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=veanbotwhatsapp&theme=highcontrast)
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
    
    <p align="center">
   <a href="https://github.com/Veanyxz"><img src="https://github-readme-stats.vercel.app/api?username=Veanyxz&theme=tokyonight&show_icons=true" /></a>
@@ -93,6 +106,10 @@ ___
 <p align="center">
   <a href="https://github.com/Veanyxz"><img src="https://github-profile-trophy.vercel.app/?username=Veanyxz&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Veanyxz&label=VIEWS&style=flat-square&color=orange" />
+</p>
     
     ___
 
@@ -107,16 +124,4 @@ ___
 <a href="https://api.whatsapp.com/send?phone=628983583288&text=Assalamualaikum+Bang" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
-### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=veanyxz&theme=highcontrast)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=scraper&theme=highcontrast)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=json&theme=highcontrast)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=veanbotwhatsapp&theme=highcontrast)
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
-
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 ___
