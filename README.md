@@ -74,6 +74,14 @@ ___
   <a href="https://github.com/Veanyxz"><img src="https://github-readme-stats.vercel.app/api?username=Veanyxz&theme=tokyonight&show_icons=true" /></a>
 </p>
 
+### Spotify Playing 🎧
+
+<p align="center">
+  <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+------
+
 <p align="center">
   <a href="https://github.com/Veanyxz"><img src="https://github-readme-streak-stats.herokuapp.com?user=Veanyxz&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
