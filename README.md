@@ -5,9 +5,8 @@
 <p><em>Developer at <a href="https://vean.xyz/">Unix-Team  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-[![Twitter: MisfitsCode](https://img.shields.io/twitter/follow/MisfitsCode?style=social)](https://twitter.com/MisfitsCode)
-[![Linkedin: poleselfg](https://img.shields.io/badge/-poleselfg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/poleselfg/)](https://www.linkedin.com/in/poleselfg/)
-[![GitHub poleselfg](https://img.shields.io/github/followers/poleselfg?label=follow&style=social)](https://github.com/poleselfg)
+[![Instagram _veansh_](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_veansh_)
+[![GitHub veanyxz](https://img.shields.io/github/followers/poleselfg?label=follow&style=social)](https://github.com/Veanyxz)
 
 
 ### <img src="https://media3.giphy.com/media/jUZmz3kAiAuLC/200.webp?cid=ecf05e472ppgejelz9vrs67x38inpt96dl2x6i0z51br0jfh&rid=200.webp" width="40"> A little more about me...  
