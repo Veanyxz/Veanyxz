@@ -107,4 +107,7 @@ ___
 <a href="https://api.whatsapp.com/send?phone=628983583288&text=Assalamualaikum+Bang" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
+### Repo Stats 🔭
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=veanyxz&theme=dark)
+
 ___
