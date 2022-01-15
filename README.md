@@ -109,5 +109,8 @@ ___
 
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=veanyxz&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=scraper&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=json&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=veanbotwhatsapp&theme=dark)
 
 ___
