@@ -48,10 +48,6 @@ ___
 
 ___
 
-```
-```
-___
-
 ### [`👇 INTRO MY SELF`](https://instagram.com/itsmevean)
 ```
 "Name": "Vean",
