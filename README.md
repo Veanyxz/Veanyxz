@@ -108,9 +108,15 @@ ___
 </p>
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=veanyxz&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=scraper&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=json&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=veanbotwhatsapp&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=veanyxz&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=scraper&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=json&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=veanbotwhatsapp&theme=highcontrast)
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 ___
