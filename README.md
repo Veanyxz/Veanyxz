@@ -12,7 +12,7 @@
 ### <img src="https://media3.giphy.com/media/jUZmz3kAiAuLC/200.webp?cid=ecf05e472ppgejelz9vrs67x38inpt96dl2x6i0z51br0jfh&rid=200.webp" width="40"> A little more about me...  
 
 ```javascript
-const pole = {
+const vean = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Scripting],
   tools: [React, , ReactNative, Node, Styled-Components, Docker, Etc],
