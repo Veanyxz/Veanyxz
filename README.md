@@ -59,10 +59,9 @@ ___
     
     ___
 
-### [` 📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=628983583288&text=Assalamualaikum+Bang)
-### [` 📫 Secound Contact`](https://api.whatsapp.com/send?phone=6282246869840&text=Assalamualaikum+Bang)
-### [`📬 Website `](https://Veanyxz.github.io)
-## [`My Bot Whatsapp Number`](https://api.whatsapp.com/send?phone=6282246869840&text=Assalamualaikum+Bang)
+### [`📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=628983583288&text=Assalamualaikum+Bang)
+### [`📬 My Bot Whatsapp Number`](https://api.whatsapp.com/send?phone=6282246869840&text=Assalamualaikum+Bang)
+### [`📬 Website`](https://Veanyxz.github.io)
 
     
 <p align="center">
