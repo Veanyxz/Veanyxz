@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vean</h1>
+
+<h1 align="center"> ザキです<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm Vean</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Veanyxz&label=Profile%20views&color=0e75b6&style=flat" alt="veanyxz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Veanyxz" alt="Veanyxz" /></a> </p>
