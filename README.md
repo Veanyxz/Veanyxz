@@ -104,7 +104,7 @@ ___
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Veanyxz&label=VIEWS&style=flat-square&color=orange" />
+  <img src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e7" />
 </p>
     
 
