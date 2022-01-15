@@ -102,10 +102,6 @@ ___
 <p align="center">
   <a href="https://github.com/Veanyxz"><img src="https://github-profile-trophy.vercel.app/?username=Veanyxz&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e7" />
-</p>
     
 
 ### [`📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=628983583288&text=Assalamualaikum+Bang)
