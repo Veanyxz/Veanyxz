@@ -6,7 +6,7 @@
 </em></p>
 
 [![Instagram _veansh_](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_veansh_)
-[![GitHub veanyxz](https://img.shields.io/github/followers/poleselfg?label=follow&style=social)](https://github.com/Veanyxz)
+[![GitHub veanyxz](https://img.shields.io/github/followers/veanyxz?label=follow&style=social)](https://github.com/Veanyxz)
 
 
 ### <img src="https://media3.giphy.com/media/jUZmz3kAiAuLC/200.webp?cid=ecf05e472ppgejelz9vrs67x38inpt96dl2x6i0z51br0jfh&rid=200.webp" width="40"> A little more about me...  
