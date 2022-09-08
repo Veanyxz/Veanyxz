@@ -49,6 +49,14 @@ ___
 
 ___
 
+<p align="center">
+<a href="https://vean.my.id"><img align="center" src="https://github-cardname.vean.my.id/api?name=Vean&description=Hi,%20i%27m%20Vean%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/veanyxz&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@_veansh_&github=Veanyxz&pattern=ticTacToe&colorPattern=%23eaeaea&site=vean.my.id"/></a>
+</p>
+<p align='center'>
+<a href="https://instagram.com/_veansh_"><img height="30" src="https://storage.caliph.my.id/img/instagram.svg"></a>&nbsp;&nbsp;
+</p>
+___
+
 ### [`👇 INTRO MY SELF`](https://instagram.com/itsmevean)
 ```
 "Name": "Rafli Maulana I",
