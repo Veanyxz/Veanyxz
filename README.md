@@ -47,14 +47,13 @@ ___
    <img width="300" height="150" src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e6f627579616b693f7468656d653d67656c626f6f72752d68" />
 </p>
 
-___
-
 <p align="center">
-<a href="https://vean.my.id"><img align="center" src="https://github-cardname.vean.my.id/api?name=Vean&description=Hi,%20i%27m%20Vean%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/veanyxz&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@_veansh_&github=Veanyxz&pattern=ticTacToe&colorPattern=%23eaeaea&site=vean.my.id"/></a>
+<a href="https://vean.my.id"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Vean&description=Hi,%20i%27m%20Vean%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/caliphdev&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@_veansh_&github=Veanyxz&pattern=ticTacToe&colorPattern=%23eaeaea&site=vean.my.id"/></a>
 </p>
 <p align='center'>
 <a href="https://instagram.com/_veansh_"><img height="30" src="https://storage.caliph.my.id/img/instagram.svg"></a>&nbsp;&nbsp;
 </p>
+
 ___
 
 ### [`👇 INTRO MY SELF`](https://instagram.com/itsmevean)
