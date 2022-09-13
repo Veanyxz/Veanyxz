@@ -58,7 +58,7 @@ ___
 
 ### [`👇 INTRO MY SELF`](https://instagram.com/itsmevean)
 ```
-"Name": "Rafli Maulana I",
+"Name": "Rafli M.I",
 "Status": "Graduates SMKN 7 Surabaya",
 "Address": "Surabaya, Jawa Timur, Indonesia",
 "Age": "20 Years Old",
