@@ -120,8 +120,6 @@ ___
     
 
 ### [`📬 My Whatsapp`](https://api.whatsapp.com/send?phone=628983583288&text=Assalamualaikum+Bang)
-### [`📬 My Bot Whatsapp`](https://api.whatsapp.com/send?phone=6282246869840&text=!menu)
-### [`📬 My Uploader`](https://uploader.vean.my.id)
 ### [`📬 My Website`](https://vean.my.id)
     
 <p align="center">
