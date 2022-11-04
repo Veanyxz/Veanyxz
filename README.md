@@ -1,5 +1,9 @@
 
-<h1 align="center"> Helloworld<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm Vean</h1>
+<h1 align="center">
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello+World!+I+am+Vean;I+love+building+things+that+live+on+the+internet">
+  </a>
+</h1>
 
 <img align='right' src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
 <p><em>Developer at <a href="https://chat.whatsapp.com/KAm6pMNS22KCpNYusp8oRy">TPX - TEAM  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -24,7 +28,7 @@ const vean = {
 }
 ```
 <p align="center">
-<a target="_blank" href="https://hackerz.my.id/"><img alt="TPX - TEAM" src="https://img.shields.io/badge/TPX - TEAM%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+<a target="_blank" href="https://vean.my.id/"><img alt="TPX - TEAM" src="https://img.shields.io/badge/TPX - TEAM%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 </p>
 
 <img src="https://media0.giphy.com/media/Wj7lNjMNDxSmc/200.webp?cid=ecf05e47gol7hyzftrdpoaar8lchrj2uzbzs0qoz3xgzv14o&rid=200.webp" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
