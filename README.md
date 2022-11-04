@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<img align='right' src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
+
 <p><em>Developer at <a href="https://chat.whatsapp.com/KAm6pMNS22KCpNYusp8oRy">TPX - TEAM  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
@@ -14,6 +14,10 @@
 
 
 ### <img src="https://media3.giphy.com/media/jUZmz3kAiAuLC/200.webp?cid=ecf05e472ppgejelz9vrs67x38inpt96dl2x6i0z51br0jfh&rid=200.webp" width="40"> A little more about me...  
+
+<p align="center">
+  <img alig src="./code.gif" />
+</p>
 
 ```javascript
 const vean = {
