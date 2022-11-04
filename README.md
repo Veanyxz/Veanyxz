@@ -89,7 +89,7 @@ ___
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=veanyxz&theme=highcontrast)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=scraper&theme=highcontrast)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=json&theme=highcontrast)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=veanbotwhatsapp&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=vean-uploader&theme=highcontrast)
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
@@ -119,7 +119,6 @@ ___
 ### [`📬 My Bot Whatsapp`](https://api.whatsapp.com/send?phone=6282246869840&text=!menu)
 ### [`📬 My Uploader`](https://uploader.vean.my.id)
 ### [`📬 My Website`](https://vean.my.id)
-### [`📬 My Website 2`](https://hackerz.my.id)
     
 <p align="center">
 <a href="https://www.instagram.com/_veansh_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
