@@ -69,14 +69,12 @@ ___
 "Name": "Rafli M.I",
 "Status": "Graduates SMKN 7 Surabaya",
 "Address": "Surabaya, Jawa Timur, Indonesia",
-"Age": "20 Years Old",
+"Age": "23 Years Old",
 "Birthday": "March - 13, 2001"
    
 "Big Thanks To"
 
-  "- Allah S.W.T"
   "- TeamProviderXploit"
-  "- ΛNU Team"
   "- And My Partner"
 ```
 ___
@@ -119,13 +117,13 @@ ___
 </p>
     
 
-### [`📬 My Whatsapp`](https://api.whatsapp.com/send?phone=628983583288&text=Assalamualaikum+Bang)
+### [`📬 My Whatsapp`](https://api.whatsapp.com/send?phone=628983583288&text=Halo+Bang)
 ### [`📬 My Website`](https://vean.my.id)
     
 <p align="center">
 <a href="https://www.instagram.com/_veansh_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="veanyxz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://api.whatsapp.com/send?phone=628983583288&text=Assalamualaikum+Bang" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://api.whatsapp.com/send?phone=628983583288&text=Halo+Bang" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ___
